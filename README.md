@@ -1,3 +1,3 @@
-## Reference code for the Crypto-Watch React Project
+## Reference code for the cryptrone React Project
 
-https://hash-crypto-watch.netlify.app/
+https://hash-cryptrone.netlify.app/
